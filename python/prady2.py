@@ -1,3 +1,19 @@
+# Project Submitted by :-
+#
+# 1. Hrishikesh Sarma
+# 2. Bhargav Mehta
+#
+# Project File:
+# FinalProject.py
+#
+# Input Syntax:
+# python FinalProject.py <train_label_file> <train_data_file> <test_data_file>
+#
+#
+# Output:
+# 1. Execution Progress on Console.
+# 2. Predicted Labels on /Ouput/Prediction.txt file
+
 import sys
 sys.path.append("..")
 import operator
